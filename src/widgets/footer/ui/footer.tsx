@@ -34,7 +34,7 @@ export const Footer = ({ className }: { className?: string }) => {
                         <li>
                             <Telegram />
                             <a
-                                href='https://t.me/kozaaq'
+                                href='https://t.me/Nursultan'
                                 target='_blank'
                                 rel='noreferrer'>
                                 Telegram
@@ -43,7 +43,7 @@ export const Footer = ({ className }: { className?: string }) => {
                         <li>
                             <Github />
                             <a
-                                href='https://github.com/UmttikhinaDasha'
+                                href='https://github.com/kydyrmyshov107'
                                 target='_blank'
                                 rel='noreferrer'>
                                 GitHub
